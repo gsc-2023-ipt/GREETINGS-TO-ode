@@ -1,7 +1,10 @@
-HAPPY BIRTHDAY
-* [Bootstrap 5](https://getbootstrap.com/docs/5.0/getting-started/introduction/)
-* [Font Awesome 5](https://fontawesome.com/)
-* [google map](https://www.embed-map.com/)
+# THIS PROJECT CONTAINS THE FOLLOWING SCRIPTS:
 
-This is the [live demo](https://brad-portfolio.netlify.app/) of the project . 
+1. HTML5/BOOTSTRAP5
+2. CSS
+3. JSSCRIPT
 
+/* BEWARE OF THIS LINK!! */
+
+
+![giphy](https://user-images.githubusercontent.com/124646337/224871279-2c978630-14c7-4e09-8ebe-37230b3bee75.gif)
