@@ -64,7 +64,7 @@ class Birthday {
       this.counter = 0
     }
 
-    
+    // remove the dead fireworks
     if (this.fireworks.length > 1000) this.fireworks = this.fireworks.filter(firework => !firework.dead)
 
   }
